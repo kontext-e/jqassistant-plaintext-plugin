@@ -42,5 +42,5 @@ java {
 }
 
 jar {
-    archiveBaseName = 'jqassistant.plugin.jacoco'
+    archiveBaseName = 'jqassistant.plugin.plaintext'
 }
